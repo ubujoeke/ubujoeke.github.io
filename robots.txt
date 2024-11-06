@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ubujoeke.github.io/GQU/sitemap_index.txt
+Sitemap: https://ubujoeke.github.io/NuT/sitemap_index.txt
+Sitemap: https://ubujoeke.github.io/kde/sitemap_index.txt
+Sitemap: https://ubujoeke.github.io/xFJ/sitemap_index.txt
